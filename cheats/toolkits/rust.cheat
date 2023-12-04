@@ -1,0 +1,7 @@
+% rust_toolkit
+
+# Bacon - Rust test framework
+navi --fzf-overrides '--nth 1' --query bacon
+
+# Cargo - Rust-based package manager
+navi --fzf-overrides '--nth 1' --query cargo

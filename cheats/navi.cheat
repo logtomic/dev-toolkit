@@ -1,0 +1,10 @@
+% navi
+
+# Query for a specific string
+navi --query <query>
+
+# Query only the name column
+navi --fzf-overrides '--nth 1' --query <query>
+
+# Query only the command column
+navi --fzf-overrides '--nth 3' --query <query>

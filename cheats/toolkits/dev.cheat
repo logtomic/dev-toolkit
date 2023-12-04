@@ -1,0 +1,22 @@
+% dev_toolkit
+
+# navi - A custom CLI command search tool
+navi --fzf-overrides '--nth 1' --query navi
+
+# ripgrep - A better `grep` replacement
+navi --fzf-overrides '--nth 1' --query ripgrep
+
+# lsd - A better `ls` replacement
+navi --fzf-overrides '--nth 1' --query lsd
+
+# bat - A better `cat` replacement
+navi --fzf-overrides '--nth 1' --query bat
+
+# zellij - A better `tmux` replacement
+navi --fzf-overrides '--nth 1' --query zellij
+
+# lazygit - A unique terminal-based git UI
+navi --fzf-overrides '--nth 1' --query lazygit
+
+# mprocs - A unique terminal-based multi-process UI
+navi --fzf-overrides '--nth 1' --query mprocs
